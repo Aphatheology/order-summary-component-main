@@ -24,8 +24,8 @@ This is a Newbie rated challenge which I decide to take on to see how much basic
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Aphatheology/order-summary-component-main)
-- Live Site URL: [Add live site URL here](https://ordersummary-challenge.netlify.app/)
+- Solution URL: [Solution Repository](https://github.com/Aphatheology/order-summary-component-main)
+- Live Site URL: [Order Summary - Netlify](https://ordersummary-challenge.netlify.app/)
 
 ## My process
 
