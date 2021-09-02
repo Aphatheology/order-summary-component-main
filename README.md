@@ -20,7 +20,7 @@ This is a Newbie rated challenge which I decide to take on to see how much basic
 
 ### Screenshot
 
-![](.images/screenshot.png)
+![Screenshot of my Order summary card solution](./images/screenshot.PNG)
 
 ### Links
 
